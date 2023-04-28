@@ -1,0 +1,148 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+
+body{
+  background: #d1d9ef;
+}
+
+.textoPequeno{
+   border-radius: 10px;
+   text-align: justify;
+   font-size: 20px;
+   font-family: 'Montserrat', sans-serif;
+   background-color: #9ba2b6;
+   margin-bottom: 1cm;
+   margin-left: 6cm;
+   margin-right: 6cm;
+
+}
+
+.textoTrat{
+   border-radius: 10px;
+   text-align: center;
+   font-size: 20px;
+   font-family: 'Montserrat', sans-serif;
+   background-color: #9ba2b6;
+   margin-bottom: 1cm;
+   margin-left: 6cm;
+   margin-right: 6cm;
+}
+
+.textoRodape{
+    border-radius: 10px;
+   text-align: center;
+   font-size: 18px;
+   font-family: 'Montserrat', sans-serif;
+   margin-bottom: 1cm;
+   margin-left: 6cm;
+   margin-right: 6cm;
+}
+
+   .textoCalvo{
+      border-radius: 10px;
+      font-size: 20px;
+      font-family: 'Montserrat', sans-serif;
+      background-color: #9ba2b6;
+      margin-bottom: 1cm;
+      margin-right: 6cm;
+      margin-left: 10px;
+ 
+   }
+
+
+.titulo{
+   font-size: 60px;
+   font-family: 'Josefin Sans', sans-serif;
+   margin-left: 3cm;
+   margin-right: 3cm;
+   margin-top: 2cm; 
+   margin-bottom: 1cm;
+}
+
+.container{
+   display: flex;
+   text-align: justify; 
+   align-items:flex-start;
+}
+
+.produtos{
+   margin-left: 6cm;
+   text-align: center;
+   margin-right: 6cm;
+ 
+}
+
+.subli{
+   text-decoration: underline;
+   text-align: center;
+}
+
+.logo{
+  right: 0px;
+  top: -11px;
+  position: absolute;
+
+}
+
+.descricao{
+   text-align: center;
+   font-size: 17px;
+   background-color: rgb(255,255,255);
+   margin-left: 14cm;
+   margin-right: 14cm;
+   margin-bottom: 20px;
+
+   
+}
+
+.bluepen{
+
+margin-left: 14cm;
+margin-right: 14cm;
+text-align: center;
+background-color: rgb(255,255,255)
+}
+
+
+.calvo{
+   margin-left: 6cm;
+   text-align: left;
+}
+
+.menuPrincipal {
+   position: absolute;
+   width: 100%;
+   height: 50px;
+   background:#0b3b3b;
+   top: 0;
+   left: 0;
+}
+nav ul {
+   list-style-type: none;
+   margin: 0;
+   padding: 0;
+   overflow: 0;
+
+}
+li {
+   float: left;
+
+}
+li a {
+   display: block;
+   color: rgb(255, 255, 255);
+   text-align: center;
+   padding: 15px 16px;
+   text-decoration: none;
+   font-family: "Goudy Bookletter 1911", sans-serif;
+   font-size: large;
+
+
+}
+li a:hover {
+  background: #C3CBE0;
+   color: rgb(0,90,90);
+}
+

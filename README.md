@@ -1,4 +1,4 @@
-# segundoi
-Propor idéias para a resolução de problemas para calvice. Desde estágios iniciantes à avançados.
-Indicação de produtos para tratamento e práticas para a diminuição da causa.
+# primeirob_3t
 
+Vinícius Yudi Kondo Nº31 2ºI
+Ian Pedro Tiado Ferreira Nº17 2ºI
